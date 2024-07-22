@@ -3,7 +3,7 @@
 This is our bible
 
 1. Thou shalt not type !q in root
-2. Day 0 is 4/20/2024 in funny murcan time
+2. Day 0 is 2024-04-20 in funny murcan time
 3. A week is 8 days
 4. A month is 4 weeks
 5. There is 11 months and a 12th month, comprised of either 13 or 14 days depending on whenever the year number's bottom 2 bits are both zero
